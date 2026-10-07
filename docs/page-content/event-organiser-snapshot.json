@@ -1,0 +1,598 @@
+{
+    "plugin_version": "3.12.10",
+    "blog_id": 3,
+    "timezone": "Asia/Tokyo",
+    "date_format": "Y年n月j日",
+    "options": {
+        "supports": [
+            "title",
+            "editor",
+            "author",
+            "thumbnail",
+            "excerpt",
+            "custom-fields",
+            "eventtag"
+        ],
+        "event_redirect": "events",
+        "dateformat": "dd-mm",
+        "prettyurl": 1,
+        "templates": 0,
+        "addtomenu": 0,
+        "excludefromsearch": 0,
+        "showpast": 1,
+        "group_events": "",
+        "url_venue": "events/venues",
+        "url_cat": "events/category",
+        "url_tag": "events/tag",
+        "navtitle": "イベント",
+        "eventtag": 1,
+        "feed": 1,
+        "runningisnotpast": 0,
+        "deleteexpired": 0,
+        "map_provider": "openstreetmap"
+    },
+    "categories": [
+        {
+            "term_id": 21,
+            "name": "修練",
+            "slug": "syuren",
+            "term_group": 0,
+            "term_taxonomy_id": 21,
+            "taxonomy": "event-category",
+            "description": "",
+            "parent": 0,
+            "count": 4,
+            "filter": "raw",
+            "color": "#d71920"
+        },
+        {
+            "term_id": 22,
+            "name": "年間行事",
+            "slug": "gyouji_yearlist",
+            "term_group": 0,
+            "term_taxonomy_id": 22,
+            "taxonomy": "event-category",
+            "description": "",
+            "parent": 0,
+            "count": 1,
+            "filter": "raw",
+            "color": "#d71920"
+        },
+        {
+            "term_id": 23,
+            "name": "昇格孝試",
+            "slug": "a-test",
+            "term_group": 0,
+            "term_taxonomy_id": 23,
+            "taxonomy": "event-category",
+            "description": "",
+            "parent": 0,
+            "count": 0,
+            "filter": "raw",
+            "color": "#d71920"
+        },
+        {
+            "term_id": 24,
+            "name": "研修会",
+            "slug": "workshop",
+            "term_group": 0,
+            "term_taxonomy_id": 24,
+            "taxonomy": "event-category",
+            "description": "",
+            "parent": 0,
+            "count": 0,
+            "filter": "raw",
+            "color": "#d71920"
+        },
+        {
+            "term_id": 25,
+            "name": "祭事",
+            "slug": "celebration",
+            "term_group": 0,
+            "term_taxonomy_id": 25,
+            "taxonomy": "event-category",
+            "description": "",
+            "parent": 0,
+            "count": 0,
+            "filter": "raw",
+            "color": "#d71920"
+        }
+    ],
+    "events": [
+        {
+            "post": {
+                "ID": 138,
+                "post_author": "1",
+                "post_date": "2026-10-06 23:09:06",
+                "post_date_gmt": "2026-10-06 14:09:06",
+                "post_content": "　　　　　　　２０２６年埼玉県少林寺拳法大会ご案内\r\n　年　月　日　　　令和６年７月５日（日）\r\n　会　　　場　　　行田市グリーンアリーナ\r\n　時　　　間　　　午前９時～午後５時\r\n　集合　時間　　　８時２０分\r\n　集合　場所　　　グリーンアリーナ正面玄関前\r\n　持　　　物　　　道着、帯、袖章、履物入れ、飲み物、弁当\r\n　　　　　　　　　　　　　　　　　記\r\n　当道院から出場者は少ないため、会場へは拳士ごとに車での移動をお願いします。\r\n\r\n行田グリーンアリーナまでの交通手段\r\n　富士見バイパス〜国道407号〜県道66号で約75分\r\n　関越自動車道東松山ICまたは花園ICから車で約50分\r\n　JR行田駅から車で約20分\r\n　JR吹上駅から車で約25分\r\n　秩父鉄道行田市駅から車で約6分\r\n　秩父鉄道行田市駅から徒歩約15分",
+                "post_title": "埼玉県大会",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "%e5%9f%bc%e7%8e%89%e7%9c%8c%e5%a4%a7%e4%bc%9a",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-10-06 23:09:06",
+                "post_modified_gmt": "2026-10-06 14:09:06",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "http://wordpress.local/saitamatsuruse-douin/events/event/%e5%9f%bc%e7%8e%89%e7%9c%8c%e5%a4%a7%e4%bc%9a/",
+                "menu_order": 0,
+                "post_type": "event",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw",
+                "event_id": "5",
+                "occurrence_id": "5",
+                "StartDate": "2026-07-05",
+                "StartTime": "00:00:00",
+                "EndDate": "2026-07-05",
+                "FinishTime": "23:59:59",
+                "event_occurrence": "0"
+            },
+            "categories": [
+                {
+                    "term_id": 22,
+                    "name": "年間行事",
+                    "slug": "gyouji_yearlist",
+                    "term_group": 0,
+                    "term_taxonomy_id": 22,
+                    "taxonomy": "event-category",
+                    "description": "",
+                    "parent": 0,
+                    "count": 1,
+                    "filter": "raw",
+                    "color": "#d71920"
+                }
+            ],
+            "source_id": "106",
+            "schedule": {
+                "schedule": "once",
+                "schedule_meta": "",
+                "number_occurrences": 0,
+                "frequency": 1,
+                "all_day": 1,
+                "duration_str": "+0 days +23 hours +59 minutes +59 seconds",
+                "include": [],
+                "exclude": [],
+                "_occurrences": [],
+                "start": {
+                    "date": "2026-07-05 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "end": {
+                    "date": "2026-07-05 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_start": {
+                    "date": "2026-07-05 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_last": {
+                    "date": "2026-07-05 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_finish": {
+                    "date": "2026-07-05 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "until": {
+                    "date": "2026-07-05 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "occurs_by": ""
+            },
+            "occurrences": [
+                {
+                    "start": "2026-07-05T00:00:00+09:00",
+                    "end": "2026-07-05T23:59:59+09:00"
+                }
+            ]
+        },
+        {
+            "post": {
+                "ID": 134,
+                "post_author": "1",
+                "post_date": "2026-10-06 22:30:13",
+                "post_date_gmt": "2026-10-06 13:30:13",
+                "post_content": "一　般　19:30 ～ 21:00\r\n\r\n富士見市民総合体育館　１階剣道場",
+                "post_title": "一般修練",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "%e4%b8%80%e8%88%ac%e4%bf%ae%e7%b7%b4",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-10-06 22:30:13",
+                "post_modified_gmt": "2026-10-06 13:30:13",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "http://wordpress.local/saitamatsuruse-douin/events/event/%e4%b8%80%e8%88%ac%e4%bf%ae%e7%b7%b4/",
+                "menu_order": 0,
+                "post_type": "event",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw",
+                "event_id": "1",
+                "occurrence_id": "1",
+                "StartDate": "2026-10-03",
+                "StartTime": "00:00:00",
+                "EndDate": "2026-10-03",
+                "FinishTime": "23:59:59",
+                "event_occurrence": "0"
+            },
+            "categories": [
+                {
+                    "term_id": 21,
+                    "name": "修練",
+                    "slug": "syuren",
+                    "term_group": 0,
+                    "term_taxonomy_id": 21,
+                    "taxonomy": "event-category",
+                    "description": "",
+                    "parent": 0,
+                    "count": 4,
+                    "filter": "raw",
+                    "color": "#d71920"
+                }
+            ],
+            "source_id": "91",
+            "schedule": {
+                "schedule": "once",
+                "schedule_meta": "",
+                "number_occurrences": 0,
+                "frequency": 1,
+                "all_day": 1,
+                "duration_str": "+0 days +23 hours +59 minutes +59 seconds",
+                "include": [],
+                "exclude": [],
+                "_occurrences": [],
+                "start": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "end": {
+                    "date": "2026-10-03 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_start": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_last": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_finish": {
+                    "date": "2026-10-03 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "until": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "occurs_by": ""
+            },
+            "occurrences": [
+                {
+                    "start": "2026-10-03T00:00:00+09:00",
+                    "end": "2026-10-03T23:59:59+09:00"
+                }
+            ]
+        },
+        {
+            "post": {
+                "ID": 135,
+                "post_author": "1",
+                "post_date": "2026-10-06 22:47:37",
+                "post_date_gmt": "2026-10-06 13:47:37",
+                "post_content": "少年部　18:00 ～ 19:30\r\n\r\n富士見市民総合体育館　１階剣道場",
+                "post_title": "少年部修練",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "%e5%b0%91%e5%b9%b4%e9%83%a8%e4%bf%ae%e7%b7%b4",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-10-06 22:47:37",
+                "post_modified_gmt": "2026-10-06 13:47:37",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "http://wordpress.local/saitamatsuruse-douin/events/event/%e5%b0%91%e5%b9%b4%e9%83%a8%e4%bf%ae%e7%b7%b4/",
+                "menu_order": 0,
+                "post_type": "event",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw",
+                "event_id": "2",
+                "occurrence_id": "2",
+                "StartDate": "2026-10-03",
+                "StartTime": "00:00:00",
+                "EndDate": "2026-10-03",
+                "FinishTime": "23:59:59",
+                "event_occurrence": "0"
+            },
+            "categories": [
+                {
+                    "term_id": 21,
+                    "name": "修練",
+                    "slug": "syuren",
+                    "term_group": 0,
+                    "term_taxonomy_id": 21,
+                    "taxonomy": "event-category",
+                    "description": "",
+                    "parent": 0,
+                    "count": 4,
+                    "filter": "raw",
+                    "color": "#d71920"
+                }
+            ],
+            "source_id": "95",
+            "schedule": {
+                "schedule": "once",
+                "schedule_meta": "",
+                "number_occurrences": 0,
+                "frequency": 1,
+                "all_day": 1,
+                "duration_str": "+0 days +23 hours +59 minutes +59 seconds",
+                "include": [],
+                "exclude": [],
+                "_occurrences": [],
+                "start": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "end": {
+                    "date": "2026-10-03 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_start": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_last": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_finish": {
+                    "date": "2026-10-03 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "until": {
+                    "date": "2026-10-03 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "occurs_by": ""
+            },
+            "occurrences": [
+                {
+                    "start": "2026-10-03T00:00:00+09:00",
+                    "end": "2026-10-03T23:59:59+09:00"
+                }
+            ]
+        },
+        {
+            "post": {
+                "ID": 136,
+                "post_author": "1",
+                "post_date": "2026-10-06 22:57:54",
+                "post_date_gmt": "2026-10-06 13:57:54",
+                "post_content": "少年部　18:30 ～ 19:45\r\n\r\n志木市民体育館　１階剣道場",
+                "post_title": "志木スポ少修練",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "%e5%bf%97%e6%9c%a8%e3%82%b9%e3%83%9d%e5%b0%91%e4%bf%ae%e7%b7%b4",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-10-06 22:57:54",
+                "post_modified_gmt": "2026-10-06 13:57:54",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "http://wordpress.local/saitamatsuruse-douin/events/event/%e5%bf%97%e6%9c%a8%e3%82%b9%e3%83%9d%e5%b0%91%e4%bf%ae%e7%b7%b4/",
+                "menu_order": 0,
+                "post_type": "event",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw",
+                "event_id": "3",
+                "occurrence_id": "3",
+                "StartDate": "2026-10-06",
+                "StartTime": "00:00:00",
+                "EndDate": "2026-10-06",
+                "FinishTime": "23:59:59",
+                "event_occurrence": "0"
+            },
+            "categories": [
+                {
+                    "term_id": 21,
+                    "name": "修練",
+                    "slug": "syuren",
+                    "term_group": 0,
+                    "term_taxonomy_id": 21,
+                    "taxonomy": "event-category",
+                    "description": "",
+                    "parent": 0,
+                    "count": 4,
+                    "filter": "raw",
+                    "color": "#d71920"
+                }
+            ],
+            "source_id": "99",
+            "schedule": {
+                "schedule": "once",
+                "schedule_meta": "",
+                "number_occurrences": 0,
+                "frequency": 1,
+                "all_day": 1,
+                "duration_str": "+0 days +23 hours +59 minutes +59 seconds",
+                "include": [],
+                "exclude": [],
+                "_occurrences": [],
+                "start": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "end": {
+                    "date": "2026-10-06 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_start": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_last": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_finish": {
+                    "date": "2026-10-06 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "until": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "occurs_by": ""
+            },
+            "occurrences": [
+                {
+                    "start": "2026-10-06T00:00:00+09:00",
+                    "end": "2026-10-06T23:59:59+09:00"
+                }
+            ]
+        },
+        {
+            "post": {
+                "ID": 137,
+                "post_author": "1",
+                "post_date": "2026-10-06 22:59:26",
+                "post_date_gmt": "2026-10-06 13:59:26",
+                "post_content": "少年部　18:30 ～ 19:45\r\n\r\n志木市民体育館　２階柔道場",
+                "post_title": "志木スポ少修練",
+                "post_excerpt": "",
+                "post_status": "publish",
+                "comment_status": "closed",
+                "ping_status": "closed",
+                "post_password": "",
+                "post_name": "%e5%bf%97%e6%9c%a8%e3%82%b9%e3%83%9d%e5%b0%91%e4%bf%ae%e7%b7%b4-2",
+                "to_ping": "",
+                "pinged": "",
+                "post_modified": "2026-10-06 22:59:26",
+                "post_modified_gmt": "2026-10-06 13:59:26",
+                "post_content_filtered": "",
+                "post_parent": 0,
+                "guid": "http://wordpress.local/saitamatsuruse-douin/events/event/%e5%bf%97%e6%9c%a8%e3%82%b9%e3%83%9d%e5%b0%91%e4%bf%ae%e7%b7%b4-2/",
+                "menu_order": 0,
+                "post_type": "event",
+                "post_mime_type": "",
+                "comment_count": "0",
+                "filter": "raw",
+                "event_id": "4",
+                "occurrence_id": "4",
+                "StartDate": "2026-10-06",
+                "StartTime": "00:00:00",
+                "EndDate": "2026-10-06",
+                "FinishTime": "23:59:59",
+                "event_occurrence": "0"
+            },
+            "categories": [
+                {
+                    "term_id": 21,
+                    "name": "修練",
+                    "slug": "syuren",
+                    "term_group": 0,
+                    "term_taxonomy_id": 21,
+                    "taxonomy": "event-category",
+                    "description": "",
+                    "parent": 0,
+                    "count": 4,
+                    "filter": "raw",
+                    "color": "#d71920"
+                }
+            ],
+            "source_id": "102",
+            "schedule": {
+                "schedule": "once",
+                "schedule_meta": "",
+                "number_occurrences": 0,
+                "frequency": 1,
+                "all_day": 1,
+                "duration_str": "+0 days +23 hours +59 minutes +59 seconds",
+                "include": [],
+                "exclude": [],
+                "_occurrences": [],
+                "start": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "end": {
+                    "date": "2026-10-06 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_start": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_last": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "schedule_finish": {
+                    "date": "2026-10-06 23:59:59.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "until": {
+                    "date": "2026-10-06 00:00:00.000000",
+                    "timezone_type": 3,
+                    "timezone": "Asia/Tokyo"
+                },
+                "occurs_by": ""
+            },
+            "occurrences": [
+                {
+                    "start": "2026-10-06T00:00:00+09:00",
+                    "end": "2026-10-06T23:59:59+09:00"
+                }
+            ]
+        }
+    ]
+}

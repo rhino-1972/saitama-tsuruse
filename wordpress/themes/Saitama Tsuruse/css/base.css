@@ -1,0 +1,14 @@
+.postNextPrev {
+    display: none;
+}
+
+.site-header-logo a {
+    display: inline-block;
+    max-width: 100%;
+}
+
+.site-header-logo img {
+    display: block;
+    width: min(100%, 460px);
+    height: auto;
+}

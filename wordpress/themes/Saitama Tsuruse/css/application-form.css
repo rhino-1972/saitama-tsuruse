@@ -1,0 +1,96 @@
+.tsuruse-application-form-section {
+    margin-bottom: 1rem;
+}
+
+.tsuruse-application-form-section p {
+    margin: 0;
+}
+
+.tsuruse-application-form-section br {
+    display: none;
+}
+
+.tsuruse-application-form-section__title,
+.tsuruse-application-form-field__label {
+    display: block;
+    color: #18303f;
+    font-weight: 700;
+}
+
+.tsuruse-application-form-section__title {
+    margin-bottom: 0.35rem;
+    line-height: 1.45;
+}
+
+.tsuruse-application-form-section__note {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: #4d6370;
+    line-height: 1.6;
+}
+
+.tsuruse-application-form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 18px;
+    row-gap: 10px;
+}
+
+.tsuruse-application-form-field {
+    min-width: 0;
+}
+
+.tsuruse-application-form-field__label {
+    margin-bottom: 0.3rem;
+}
+
+.tsuruse-application-form-stack {
+    display: block;
+}
+
+.tsuruse-application-form-stack .wpcf7-form-control-wrap,
+.tsuruse-application-form-field .wpcf7-form-control-wrap,
+.tsuruse-application-form-captcha__input .wpcf7-form-control-wrap {
+    display: block;
+}
+
+.tsuruse-application-form-stack input[type="text"],
+.tsuruse-application-form-stack input[type="email"],
+.tsuruse-application-form-stack select,
+.tsuruse-application-form-stack textarea,
+.tsuruse-application-form-field input[type="text"] {
+    margin-top: 0;
+    width: 100%;
+}
+
+.tsuruse-application-form-captcha__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+}
+
+.tsuruse-application-form-captcha__image,
+.tsuruse-application-form-captcha__input {
+    display: inline-flex;
+    align-items: center;
+}
+
+.tsuruse-application-form-captcha__input {
+    min-width: min(100%, 10rem);
+}
+
+.tsuruse-application-form-captcha__input input[type="text"] {
+    width: 100%;
+}
+
+.tsuruse-application-form-section--submit {
+    margin-bottom: 0;
+}
+
+@media (max-width: 767.98px) {
+    .tsuruse-application-form-grid {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 12px;
+    }
+}

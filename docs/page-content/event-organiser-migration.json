@@ -1,0 +1,38 @@
+{
+    "blog_id": 3,
+    "mapping": {
+        "91": 134,
+        "95": 135,
+        "99": 136,
+        "102": 137,
+        "106": 138
+    },
+    "options": {
+        "supports": [
+            "title",
+            "editor",
+            "author",
+            "thumbnail",
+            "excerpt",
+            "custom-fields",
+            "eventtag"
+        ],
+        "event_redirect": "events",
+        "dateformat": "dd-mm",
+        "prettyurl": 1,
+        "templates": 0,
+        "addtomenu": 0,
+        "excludefromsearch": 0,
+        "showpast": 1,
+        "group_events": "",
+        "url_venue": "events/venues",
+        "url_cat": "events/category",
+        "url_tag": "events/tag",
+        "navtitle": "イベント",
+        "eventtag": 1,
+        "feed": 1,
+        "runningisnotpast": 0,
+        "deleteexpired": 0,
+        "map_provider": "openstreetmap"
+    }
+}

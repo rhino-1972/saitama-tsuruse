@@ -1,0 +1,111 @@
+.tsuruse-comments-area {
+    margin-top: 2.5rem;
+}
+
+.tsuruse-comments-accordion {
+    border-top: 0;
+}
+
+.tsuruse-comments-accordion__summary {
+    position: relative;
+    display: block;
+    padding: 0;
+    cursor: pointer;
+    list-style: none;
+}
+
+.tsuruse-comments-accordion__summary::-webkit-details-marker {
+    display: none;
+}
+
+.tsuruse-comments-accordion__summary::after {
+    content: "+";
+    position: absolute;
+    top: 0.15rem;
+    right: 0;
+    color: #5b6f7e;
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1;
+}
+
+.tsuruse-comments-accordion[open] .tsuruse-comments-accordion__summary::after {
+    content: "\2212";
+}
+
+.tsuruse-comments-accordion__title {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0 2rem 0.75rem 0;
+    color: #18303f;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.tsuruse-comments-accordion__title::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 9rem;
+    border-bottom: 2px solid #8dc8d9;
+}
+
+.tsuruse-comments-accordion__body {
+    padding-top: 1rem;
+}
+
+.tsuruse-comments-thread {
+    margin-bottom: 1.5rem;
+}
+
+.tsuruse-comments-thread__title {
+    margin: 0 0 0.85rem;
+    color: #18303f;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.tsuruse-comments-area .comment-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.tsuruse-comments-area .comment-list > li {
+    margin: 0 0 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e2e9ee;
+}
+
+.tsuruse-comments-area .comment-list > li:last-child {
+    margin-bottom: 0;
+}
+
+.tsuruse-comments-area .comment-navigation {
+    margin: 0 0 1rem;
+}
+
+.tsuruse-comments-area .comment-form p {
+    margin-bottom: 1rem;
+}
+
+.tsuruse-comments-area .comment-form-comment textarea {
+    min-height: 11rem;
+}
+
+.tsuruse-comments-area .comment-form input[type="submit"] {
+    min-width: 10rem;
+}
+
+@media (max-width: 767.98px) {
+    .tsuruse-comments-area {
+        margin-top: 2rem;
+    }
+
+    .tsuruse-comments-accordion__title {
+        font-size: 1.08rem;
+    }
+}
