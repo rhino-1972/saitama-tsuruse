@@ -6,7 +6,7 @@ SKST（埼玉鶴瀬道院・志木スポーツ少年団・イベント写真館�
 
 - `wordpress/themes/doin`: 埼玉鶴瀬道院のLightning子テーマ
 - `wordpress/themes/jsc`: 志木スポーツ少年団の子テーマ
-- `wordpress/themes/Saitama Tsuruse`: イベント写真館の子テーマ
+- `wordpress/themes/TuruseShiki_Etents`: イベント写真館の子テーマ
 - `wordpress/mu-plugins`: アップロード上限・イベント互換処理・Local環境の互換処理
 - `wordpress/tests`: 独自処理の検証スクリプト
 - `docs`: 原設計書、実装反映設計書、運用・移行手順
